@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe.config
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.pdb
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form1.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.exe
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.pdb
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form2.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form3.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form4.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form5.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form6.resources
+C:\Users\user\Desktop\פרויקט בתכנות ויזואלי קובץ סופי\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form7.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe.config
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.pdb
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form1.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form2.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form3.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form4.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form5.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form6.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form7.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.exe
+C:\Users\user\Desktop\‏‏פרויקט בתכנות ויזואלי קובץ סופי - עותק (3)\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.pdb
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.AssemblyReference.cache
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.exe
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.pdb
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe.config
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.exe
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\bin\x64\Debug\BeautySalon.pdb
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form1.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form2.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form3.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form4.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form5.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form6.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Form7.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.GenerateResource.cache
+C:\Users\TOHAR\OneDrive\שולחן העבודה\BeautySalon\BeautySalon\obj\x64\Debug\BeautySalon.csproj.CoreCompileInputs.cache
